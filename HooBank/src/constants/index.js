@@ -2,40 +2,40 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "inicio",
+    title: "Início",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "sobrenos",
+    title: "Sobre Nós",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "produto",
+    title: "Produtos",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "clientes",
+    title: "Clientes",
   },
 ];
 
-export const features = [
+export const sobrenos = [
   {
-    id: "feature-1",
+    id: "sobrenos-1",
     icon: star,
     title: "Rewards",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
   },
   {
-    id: "feature-2",
+    id: "sobrenos-2",
     icon: shield,
     title: "100% Secured",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
-    id: "feature-3",
+    id: "sobrenos-3",
     icon: send,
     title: "Balance Transfer",
     content:
