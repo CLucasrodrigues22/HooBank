@@ -2,4 +2,4 @@
 
 > A ser melhorado:
 
-- adicionar API para ser consumida
+- Desenvolvimento de uma API usando laravel para ser consumida com dados dinâmicos e manipuláveis.
