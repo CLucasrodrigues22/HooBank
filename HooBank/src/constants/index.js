@@ -6,7 +6,7 @@ export const navLinks = [
     title: "Início",
   },
   {
-    id: "sobrenos",
+    id: "features",
     title: "Sobre Nós",
   },
   {
@@ -19,23 +19,23 @@ export const navLinks = [
   },
 ];
 
-export const sobrenos = [
+export const features = [
   {
-    id: "sobrenos-1",
+    id: "features-1",
     icon: star,
     title: "Rewards",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
   },
   {
-    id: "sobrenos-2",
+    id: "features-2",
     icon: shield,
     title: "100% Secured",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
-    id: "sobrenos-3",
+    id: "features-3",
     icon: send,
     title: "Balance Transfer",
     content:
